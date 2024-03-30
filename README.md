@@ -186,4 +186,6 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 1. https://pencilcase.ai/index.html
 2. https://lambdalabs.com/service/gpu-cloud#pricing
 3. https://github.com/omniinfer/sd-webui-cloud-inference
+4. https://www.youtube.com/watch?v=J4D4JmcG3Dc
+5. https://www.youtube.com/watch?v=B5VzYIc02RE
 
