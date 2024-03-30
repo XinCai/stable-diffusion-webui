@@ -180,3 +180,10 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - Hypertile - tfernd - https://github.com/tfernd/HyperTile
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
+
+Best way / Cheapest way to run Stable Diffusion in the cloud : 
+1. https://pencilcase.ai/index.html
+2. https://lambdalabs.com/service/gpu-cloud#pricing
+3. 
+
