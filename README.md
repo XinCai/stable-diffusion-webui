@@ -182,8 +182,8 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - (You)
 
 
-Best way / Cheapest way to run Stable Diffusion in the cloud : 
+## Best way / Cheapest way to run Stable Diffusion in the cloud : 
 1. https://pencilcase.ai/index.html
 2. https://lambdalabs.com/service/gpu-cloud#pricing
-3. 
+3. https://github.com/omniinfer/sd-webui-cloud-inference
 
